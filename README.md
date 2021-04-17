@@ -20,12 +20,9 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 ```
 
-## Application Walkthrough
-![Application Walkthrough Gif](Demo.gif)
-
 ## Deployed application
 This application is deployed on Heroku:
-* 
+* https://rocky-hollows-17631.herokuapp.com/
 
 ## Installation Instructions
 Install the following npm packages prior to deploying application:
