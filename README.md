@@ -1,7 +1,7 @@
 # Online/Offline-Budget-Tracker
 
 ## Project Description
-Thus Budget Tracker appllication allows for offline access and functionality. Users are able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, users can populate the total when brought back online.
+This Budget Tracker appllication allows for offline access and functionality. Users are able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, users can populate the total when brought back online.
 
 ### Business Context
 
